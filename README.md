@@ -22,7 +22,7 @@ Follow these instructions to get your project up and running.
 
 3. **Set Up MySQL Database:**
    - Create a database in MySQL for the project.
-   - Update database connection settings in the configuration files. (change the password and username to your database details in the 'application.properties' file)
+   - Update database connection settings in the configuration files. (change the password, username, and database name to your database details in the 'application.properties' file)
 
 4. **Run the Backend:**
    - Locate the main class or entry point of the backend application.
