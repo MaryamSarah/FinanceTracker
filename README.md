@@ -10,6 +10,8 @@ Follow these instructions to get your project up and running.
 - **MySQL**: Ensure MySQL is installed and running. Set up a database for the project.
 - **Node.js**: Install from [nodejs.org](https://nodejs.org/).
 
+**Before anything, you have to clone the repository on your desired directory using this command - https://gitlab.com/financetracker1/FinanceTracker.git
+
 ### Backend Setup
 
 1. **Open IntelliJ IDEA:**
