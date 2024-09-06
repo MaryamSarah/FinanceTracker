@@ -1,5 +1,18 @@
 # FinanceTracker
 
+## Feature Overview
+
+- EzFinance is a web application developed using Spring boot as the backend and React as the frontend to maintain seamless user experience.
+
+Below are the features present,
+
+- Dashboard to view total income and expenses and recent transactions.
+- Transactions, where you can add, update, delete and view transaction history.
+- Categories, where you can add, update or delete a category based or prerequisites.
+
+Along with these main features, there is an exciting landing page, login page, signup page, and even a dark theme! Let's dive deeper into this project to show you to set it up.
+
+
 ## Getting Started
 
 Follow these instructions to get your project up and running.
